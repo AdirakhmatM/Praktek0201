@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-	int nilai+1;
+	
 	int nilai;
 	int nilai1;
 	
